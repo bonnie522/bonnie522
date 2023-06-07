@@ -10,10 +10,4 @@ I am currently a visiting PhD student at the University of Southern Denmark with
 
 <br/><br/>
 
-Video of Brusselators controlled using synchonisation engineering:
-
-{% Video /assets/videos/Brusselator_Sync_Engineering_targetBAR2016.mp4 %}
-
-<br/><br/>
-
 Building this site with [Jekyll](https://jekyllrb.com/)
