@@ -1,7 +1,7 @@
 ---
 ---
 Abstract:
-*The phenomenon of synchronisation is studied by means of the Kuramoto model. This model describes a large population of coupled oscillators with natural frequencies taken from a narrow distribution. It is assumed that the coupling between the oscillators is mean-field and purely sinusoidal. We follow Kuramoto’s analysis to obtain a formula for the critical coupling. Then the properties of the Kuramoto model are studied with the aid of Poincaré maps. We then conclude with a time-frequency analysis of the order parameter. With the aid of this time-frequency analysis we were able to detect partial synchronisation.*
+The phenomenon of synchronisation is studied by means of the Kuramoto model. This model describes a large population of coupled oscillators with natural frequencies taken from a narrow distribution. It is assumed that the coupling between the oscillators is mean-field and purely sinusoidal. We follow Kuramoto’s analysis to obtain a formula for the critical coupling. Then the properties of the Kuramoto model are studied with the aid of Poincaré maps. We then conclude with a time-frequency analysis of the order parameter. With the aid of this time-frequency analysis we were able to detect partial synchronisation.
 
 Supervisor: [Holger Waalkens](https://www.math.rug.nl/~holger/) (University of Groningen)
 

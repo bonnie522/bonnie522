@@ -1,0 +1,13 @@
+---
+title: Projects etc.
+---
+<h1>Projects, Talks and Articles</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2><p class="date">{{ post.date |  date: "%B %e, %Y" }} </p>
+      {{ post.excerpt }} 
+    </li>
+  {% endfor %}
+</ul>
