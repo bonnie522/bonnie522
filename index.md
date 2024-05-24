@@ -11,5 +11,6 @@ I defended my Phd in January 2024 at the Centre for Systems, Dynamics, and Contr
 During the last year of my PhD I was a visiting researcher at the Department of Mathematics and Computer Science ([IMADA](https://imada.sdu.dk/)) at the University of Southern Denmark with [Kristian Debrabant](https://imada.sdu.dk/u/debrabant/index_en.php). 
 
 <br/><br/>
+You can contact me on [LinkedIn](https://www.linkedin.com/in/liefting/).
 
 Building this site with [Jekyll](https://jekyllrb.com/)
