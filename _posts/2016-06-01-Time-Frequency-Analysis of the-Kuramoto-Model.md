@@ -5,7 +5,7 @@ The phenomenon of synchronisation is studied by means of the Kuramoto model. Thi
 
 Supervisor: [Holger Waalkens](https://www.math.rug.nl/~holger/) (University of Groningen)
 
-Have a look at my thesis [here](/assets/Liefting_Time-Frequency_Analysis_of_the_Kuramoto_Model.pdf)
+Have a look at my thesis [here](https://fse.studenttheses.ub.rug.nl/id/eprint/15537)  ([pdf](/assets/Liefting_Time-Frequency_Analysis_of_the_Kuramoto_Model.pdf))
 
 [Code from Appendix B.1]({% link /assets/Time-Frequency_AppendixB/orderpM.cpp %}) (Computes the trajectory of the order parameter of the Kuramoto model.)
 
