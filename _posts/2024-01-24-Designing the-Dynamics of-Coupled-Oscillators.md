@@ -6,6 +6,6 @@ By designing coupling to control populations of oscillators, we can control thei
 Supervisors: [Kyle Wedgwood](https://empslocal.ex.ac.uk/people/staff/kcaw201/) (University of Exeter)
 and [Christian Bick](https://www.math.vu.nl/~bick/) (Vrije University of Amsterdam)
 
-Have a look at my Phd thesis [here](http://hdl.handle.net/10871/136008)
+Have a look at my Phd thesis [here](http://hdl.handle.net/10871/136008) ([pdf](/assets/Liefting_Designing_the_Dynamics_of_Coupled_Oscillators.pdf))
 
 [Code](https://github.com/liefting/sync_engineering)
