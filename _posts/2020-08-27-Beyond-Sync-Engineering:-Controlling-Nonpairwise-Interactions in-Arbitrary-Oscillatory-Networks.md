@@ -12,4 +12,6 @@ interactions in arbitrary systems. As a first step, we design nonlinear time- de
 introduces bifurcations away from splay configuration into arbitrary systems. Controlling nonpairwise
 interactions might advance the design of minimum-power stimuli for the treatment of epilepsy.
 
+Talk at Dynamics Days Digital 2020.
+
 You can find a video of this talk on Youtube [here](https://www.youtube.com/watch?v=OkpPhpxk_ls).
